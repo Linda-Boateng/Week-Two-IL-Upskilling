@@ -9,3 +9,17 @@ v
 Fsrc/main/java/org/example/DesignPatterns/CreationalPattern/Logger.java,b\9\b912f3b65655b5b1403ed0c85a3f63c46bf805fc
 ?
 application.log,a\5\a5ccef7f26f71e30f2dd0db5fc057184ba415643
+…
+Usrc/main/java/org/example/DesignPatterns/CreationalPattern/FactoryPattern/Shapes.java,3\1\31b623568e2a7ea50a8aaec8597e9c37e97fbaab
+“
+csrc/main/java/org/example/DesignPatterns/CreationalPattern/SingletonPattern/DatabaseConnection.java,3\9\397bd812cb278cbf667ee183de26d930c6d7057c
+‡
+Wsrc/main/java/org/example/DesignPatterns/CreationalPattern/SingletonPattern/Logger.java,b\7\b7fe11489615835588970a06071a611c4f23462c
+„
+Tsrc/main/java/org/example/DesignPatterns/CreationalPattern/FactoryPattern/Shape.java,e\7\e7e49e55f76bba1e30b9869260aa68147779853c
+…
+Usrc/main/java/org/example/DesignPatterns/CreationalPattern/FactoryPattern/Circle.java,1\9\19862fb9ec9c14abc5fb36267a6b8c8ef21563d1
+…
+Usrc/main/java/org/example/DesignPatterns/CreationalPattern/FactoryPattern/Square.java,6\5\6578db2e1444c2c142c90cff35544c35a79d2d8f
+‹
+[src/main/java/org/example/DesignPatterns/CreationalPattern/FactoryPattern/ShapeFactory.java,1\b\1bd2f68adadd04c4893ce7730660a052b5a4d00b

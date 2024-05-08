@@ -1,4 +1,4 @@
-package org.example.DesignPatterns.CreationalPattern;
+package org.example.DesignPatterns.CreationalPattern.SingletonPattern;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

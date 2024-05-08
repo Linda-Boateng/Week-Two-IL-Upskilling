@@ -1,4 +1,4 @@
-package org.example.DesignPatterns.CreationalPattern;
+package org.example.DesignPatterns.CreationalPattern.SingletonPattern;
 
 public class DatabaseConnection {
     private static DatabaseConnection instance;
